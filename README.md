@@ -1,10 +1,8 @@
 # mAARE App
-> Displays the current temperature of the Aare (River in Switzerland) in a beautiful way.
+Displays the current temperature of the Aare (River in Switzerland) in a beautiful way.
 
 [![Swift Version][swift-image]][swift-url]
 [![License][license-image]][license-url]
-
-One to two paragraph statement about your product and what it does.
 
 ![](screenshot.png)
 
