@@ -29,7 +29,7 @@ pod install
 
 ## Meta
 
-Dimitri – [@dimitrisuter](https://twitter.com/dimitrisuter) – mail@dimitrisuter.ch
+Dimitri – [@dimitrisuter](https://twitter.com/dimitrisuter) – dimitri.suter@posteo.de
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
